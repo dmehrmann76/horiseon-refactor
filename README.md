@@ -1,7 +1,7 @@
 # horiseon.github.i0
 
 ## Horiseon Website 
-[Link](https://dmehrmann76.github.io/horiseon-refactor/)
+[Horiseon Web Link](https://dmehrmann76.github.io/horiseon-refactor/)
 
 The goal of this project was to modify and organize the html and css for two reasons: 
 1. SEO 
