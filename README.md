@@ -11,6 +11,9 @@ The goal of this project was to modify and organize the html and css for two rea
 
 * added 'alt' tags for all jpg and png files
 * added 'ID' tag where a link was broken 
+
+https://github.com/dmehrmann76/horiseon-refactor/blob/main/Broken%20link.png
+
 * added comments for future developing 
 
 # 'css' modified 
